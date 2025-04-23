@@ -28,5 +28,11 @@ title = "posts by category"
   show_more_url = "posts"
 
 [[entries]]
+title = "Projects"
+  [[entries.entries]]
+  title = "Website"
+  url = "https://github.com/Mangdries/mangdries.github.io"
+
+[[entries]]
 title = "rss"
 url = "index.xml"
