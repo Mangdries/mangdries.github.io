@@ -1,2 +1,1 @@
-This is footer.
-You can edit this in ../nostyleplease/layouts/footer.md
+Check out the hugo theme on [github!](https://github.com/riggraz/no-style-please)
