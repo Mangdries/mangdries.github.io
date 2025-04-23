@@ -1,4 +1,4 @@
 baseURL = 'https://mangdries.github.io/'
 languageCode = 'en-us'
 title = "Mangdries' personal site!"
-theme = 'hugo-theme-nostyleplease'
+theme = 'nostyleplease'
