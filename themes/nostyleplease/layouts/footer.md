@@ -1,1 +1,1 @@
-Check out the hugo theme on [github!](https://github.com/riggraz/no-style-please)
+*Insert good footing here*
