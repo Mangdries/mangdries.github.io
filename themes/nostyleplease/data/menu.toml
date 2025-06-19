@@ -9,6 +9,10 @@ limit = 3
   title = "Github"
   url = "https://github.com/Mangdries"
 
+  [[entries.entries]]
+  title = "Youtube"
+  url = "https://www.youtube.com/@Mangdries"
+
 [[entries]]
 title = "all posts"
 
